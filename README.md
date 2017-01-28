@@ -1,0 +1,1 @@
+1/28/2017 - First version of Rails project do-over
